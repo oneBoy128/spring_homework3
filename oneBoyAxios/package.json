@@ -1,0 +1,8 @@
+{
+    "name":"oneboy-byaxios",
+    "version":"1.0.0",
+    "main":"myAxios.js",
+    "description": "采用了AJAX模拟了一些axios操作,目前只模拟了GET与POST操作",
+    "keywords": ["oneBoy","boyAxios"],
+    "license": "ISC"
+}
